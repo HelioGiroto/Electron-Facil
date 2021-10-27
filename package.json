@@ -1,0 +1,14 @@
+{
+  "name": "App teste",
+  "version": "1.0.0",
+  "description": "Uma aplicação teste",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Helio Giroto",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.3.0"
+  }
+}
